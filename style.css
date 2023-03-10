@@ -1,0 +1,26 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+canvas
+{
+    margin: 130px;
+    border-radius:20px;
+    border:5px solid rgb(0, 0, 0);
+    box-shadow:5px 5px 5px rgb(170, 196, 210);
+}
+
+body
+{
+    background-size: cover;
+}
+
+#start,#status,#If_Found_or_Not
+{
+    font-size:20px;
+    margin:10;
+    color:antiquewhite;
+}
